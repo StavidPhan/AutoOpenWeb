@@ -4,9 +4,6 @@ This is a tool that helps automatically open web pages using Python code. It is 
 ## Installation
 Install the required libraries by using the following command on the terminal:
 `pip install selenium`
-
-## Copy code
-pip install selenium
 Then, download and install the Chrome web browser (or other browser if you want to use).
 
 ## Usage
